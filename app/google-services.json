@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383101288102",
+    "project_id": "practica2-9d8c1",
+    "storage_bucket": "practica2-9d8c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383101288102:android:88769cebeed6b755ccbe67",
+        "android_client_info": {
+          "package_name": "com.example.miappjugadores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKOf9UCZne29o7nHoYcdNhHDwDaVoiOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
